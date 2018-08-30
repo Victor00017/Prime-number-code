@@ -1,4 +1,7 @@
 # Prime-number-code
+ID= 10669580
+Assignment 2
+
 #include <iostream>
   using namespace std;
   
